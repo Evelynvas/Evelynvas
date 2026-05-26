@@ -49,13 +49,6 @@ Me chamo Evelyn, tenho 20 anos e sou natural de São Paulo. Concluí o ensino m�
 <br/>
 <br/>
 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="135" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynvas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
