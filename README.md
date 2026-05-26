@@ -2,7 +2,7 @@
 
 **`Data & Analytic`**
 
-Me chamo Evelyn, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolimento de Sistemas. Atualmente, estou cursando Ciência de Dados na FAM. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Evelyn Silva](https://www.linkedin.com/in/evelynsilvaback")", onde ensino e divido aprendizados sobre programação, análise de dados e minha jornada na área de TI.
+Me chamo Evelyn, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolimento de Sistemas. Atualmente, estou cursando Ciência de Dados na FAM. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Evelyn Silva](https://www.linkedin.com/in/evelynsilvaback")", onde ensino e divido aprendizados sobre programação, análise de dados e minha jornada na área de TI.
 
 <div> 
   <a href = "mailto:evelynback@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
